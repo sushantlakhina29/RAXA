@@ -1,0 +1,14 @@
+SMAP
+insurance_jsp.java
+JSP
+*S JSP
+*F
++ 0 insurance.jsp
+insurance.jsp
+*L
+1,4:46
+8:49
+11,35:50
+46,41:86
+86,19:127
+*E
